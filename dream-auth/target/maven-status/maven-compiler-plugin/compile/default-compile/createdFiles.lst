@@ -1,0 +1,5 @@
+cn/smdq/ch/dream/auth/DreamAuthApplication.class
+META-INF/spring-autoconfigure-metadata.properties
+cn/smdq/ch/dream/auth/configurer/DreamAuthServerConfiguration.class
+cn/smdq/ch/dream/auth/service/UserDetailServiceImpl.class
+cn/smdq/ch/dream/auth/configurer/WebSecurityConfiguration.class
